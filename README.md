@@ -4,7 +4,7 @@ A portfolio showing my progress in Tech industry.
 <!DOCTYPE html>
 <html>
   <body>
-    <a href="file:///A:/NEW%20PORTFOLIO/index.html">MY PORTFOLIO</a>
+    <a href="https://mercydev-portfolio-1.netlify.app">MY PORTFOLIO</a>
   </body>
 </html>
 
